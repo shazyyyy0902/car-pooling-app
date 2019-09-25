@@ -1,0 +1,172 @@
+body{
+    color:#78E21D;
+    background-color: rgb(255, 102, 0);
+    font-size: 30px;
+}
+H1{
+    background-color:rgb(133, 36, 197); 
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+    border: 4px solid #78E21D;
+    width: 400px;
+    display: block;
+}
+input[type=text]{
+    width:80%;
+    padding: 15px 22px;
+    margin: 10px 5px;
+    box-sizing: border-box;
+
+}
+
+input[type=Password]{
+    width:80%;
+    padding: 15px 22px;
+    margin: 10px 5px;
+    box-sizing: border-box;
+}
+input[type=submit]{
+    width: 100px;
+    padding: 15px 22px;
+    background-color:rgb(255, 102, 0) ;
+    border-radius: 10px;
+    border: 4px solid black;
+}  
+input[type=reset]{
+    width: 100px;
+    padding: 15px 22px;
+    background-color:rgb(255, 102, 0);
+    border-radius: 10px;
+    border: 4px solid black;
+}
+input[type=submit]:hover{
+    width: 200px;
+    padding: 15px 22px;
+    background-color:rgb(0, 255, 0) ;
+    border-radius: 10px;
+    border: 4px solid rgb(133, 36, 197);
+}  
+input[type=reset]:hover{
+    width: 200px;
+    padding: 15px 22px;
+    background-color:red;
+    border-radius: 10px;
+    border: 4px solid blue;
+}
+.background1{
+    background-color: rgb(133, 36, 197);
+    padding: 20px;
+    border: 4px solid rgba(97, 238, 32, 0.966);
+    margin:50px 50px;
+    padding:20px;
+    border-radius:30px;
+}
+.background2
+{background-color: rgba(97, 238, 32, 0.966);
+    width:200px;
+    padding:20px;
+    border: 4px solid rgb(133, 36, 197);
+    border-radius:30px;
+    margin: auto;
+    align-content: center;
+}
+input[type=nextpage]{
+    width: 100px;
+    padding: 15px 22px;
+    background-color:rgb(255, 102, 0) ;
+    border-radius: 10px;
+    border: 4px solid black;
+}
+input[type=nextpage]:hover{
+    width: 200px;
+    padding: 15px 22px;
+    background-color:rgb(0, 255, 0) ;
+    border-radius: 10px;
+    border: 4px solid rgb(133, 36, 197);
+}
+a{
+    background: rgb(0, 255, 0);
+    color: rgb(133, 36, 197);
+    margin: 10px 5px;
+    border: 4px solid rgb(133, 36, 197);
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 14px 16px;
+    float: left;
+    display:block;
+    font-size: 19px;
+}
+a:hover {
+    background-color: rgb(133, 36, 197);
+    color:rgb(0, 255, 0);
+    border-radius: 10px;
+    border: 4px solid rgb(0, 255, 0);
+}
+.header{
+    background-color: aqua;
+    padding: 28px 38px;
+    display: block;
+    height:300px;
+    width: 100%;
+}
+.sidebar{
+    background-color: blue;
+    padding: 28px 38px;
+    display: block;
+    height: 550px;
+    float: left;
+    width: 20%;
+}
+.main{
+    background-color: azure;
+    padding: 28px 38px;
+    display: block;
+    height: 455px;
+    width: 70%;
+    margin: auto;
+    position: relative;
+    margin:0px 330px;
+    font-size: 20px;
+}
+.footer{
+    background-color:black;
+    padding: 28px 38px;
+    display: block;
+    width: 100%;
+    margin: auto;
+    align-self: center;
+    margin: 0px 330px;
+}
+h2{
+    background-color:rgb(133, 36, 197); 
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+    border: 4px solid #78E21D;
+    width: 400px;
+    display: block;
+}
+.map{
+    padding: 28px 38px;
+    display: block;
+    height: 300px;
+    float: left;
+    width: 100%;
+}
+.accept{
+    background-color:yellow;
+    padding: 28px 38px;
+    display: block;
+    height: 300px;
+    float: left;
+    width: 100%;
+}
+.footer2{
+    background-color: black;
+    padding: 28px 38px;
+    display: block;
+    height: 50px;
+    float: left;
+    width: 100%;
+}
